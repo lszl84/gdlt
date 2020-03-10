@@ -11,7 +11,7 @@ Gdlt came to life as an alternative to these: a simple, minimal and fast (in ter
 
 ## Installation
 
-### As a sumbodule
+### As a submodule
 
 If you use a git repository for your game, just add the `gdlt` as a submodule:
 
