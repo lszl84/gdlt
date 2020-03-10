@@ -57,6 +57,8 @@ func test_something():
 
 You need to extend `TestClass` and the test methods need to have "test_" in their names. To assert test conditions use `assert_true(condition, description)`. You can create as many test scripts as you want. Subdirectories are also supported.
 
+Open the `gdlt/Tests.tscn` scene and run it (Ctrl-R on PC, Cmd-R on Mac). The tests will run, scene will exit and results will be displayed in the editor's Output tab.
+
 ## TODO
 
 - classic `set_up` and `tear_down` methods
